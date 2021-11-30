@@ -244,7 +244,7 @@ Plz reply to my tweet!
 Ia perna ei!
 Pune fursecul jos!
 Am o sugestie.
-Acum Java 16!
+Java 16 + 1 = 17!
 Acum cu Multiplayer!
 /give @a hugs 64
 GNU Terry Pratchett
