@@ -5159,5 +5159,11 @@
     "options.autosaveIndicator": "Indicator pentru salvare automat\u0103",
     "options.audioDevice": "Dispozitiv",
     "options.audioDevice.default": "Setare implicit\u0103",
-    "options.gamma.default": "Normal"
+    "options.gamma.default": "Normal",
+    "advancements.adventure.play_jukebox_in_meadows.title": "Sunetul muzicii",
+    "advancements.adventure.play_jukebox_in_meadows.description": "Fă pajiștea să devină vie redând muzică",
+    "advancements.adventure.fall_from_world_height.description": "Cazi de la limita de înălțime la roca de bază supraviețuind",
+    "advancements.adventure.fall_from_world_height.title": "Peșteri și stânci",
+    "advancements.nether.ride_strider_in_overworld_lava.description": "Mergi 50 de blocuri cu un umblător în lumea normală",
+    "advancements.nether.ride_strider_in_overworld_lava.title": "Fix ca acasă"
 }
