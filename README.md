@@ -11,12 +11,12 @@ Joacă Minecraft în română. Deși Minecraft are limba română, traducerile s
 * NU extrage fișierul
 * Copiază fișierul
 * Mergi la:
-  * Windows: C\Users\username\AppData\.minecraft\resourcepacks
+  * Windows: C:\Users\username\AppData\Roaming\.minecraft\resourcepacks
   * Linux: /home/username/.minecraft/resourcepacks
 minecraft/resourcepacks
 * Lipește fișierul aici
 * Pornește Minecraft
-* Mergi la Opțiuni>Pachete de resurse (Options>Resource packs)
+* Mergi la Opțiuni > Pachete de resurse (Options > Resource packs)
 * Mutâ noul pachet în dreapta
-* Mergi la Opțiuni>Limbă (Options>Language)
+* Mergi la Opțiuni > Limbă (Options > Language)
 * Schimbă limba la Română (România)
