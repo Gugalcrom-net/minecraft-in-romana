@@ -11,7 +11,7 @@ Joacă Minecraft în română. Deși Minecraft are limba română, traducerile s
 * NU extrage fișierul
 * Copiază fișierul
 * Mergi la:
-  * Windows: C:\Users\username\AppData\Roaming\.minecraft\resourcepacks
+  * Windows: C:\Users\username\AppData\Roaming\\.minecraft\resourcepacks
   * Linux: /home/username/.minecraft/resourcepacks
 minecraft/resourcepacks
 * Lipește fișierul aici
